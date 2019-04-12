@@ -1,0 +1,27 @@
+{
+  "name": "dsand_server",
+  "version": "0.0.0",
+  "description": "It like to use dsand on server side render",
+  "main": "dsand.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/johnny-shaman/dsv.git"
+  },
+  "keywords": [
+    "cte",
+    "server-side-render",
+    "ssr",
+    "algebra",
+    "algebraic",
+    "dsand"
+  ],
+  "author": "Noboru Okazaki",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/johnny-shaman/dsv/issues"
+  },
+  "homepage": "https://github.com/johnny-shaman/dsv#readme"
+}
